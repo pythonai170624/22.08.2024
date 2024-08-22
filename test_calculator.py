@@ -1,3 +1,5 @@
+# from Terminal > pip install pytest
+# from Terminal > pytest .
 import calculator
 
 def test_calculator_add_small():
